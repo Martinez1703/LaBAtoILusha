@@ -1,0 +1,40 @@
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\bin\Debug\Lab2.exe
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\obj\Debug\Lab2.exe
+C:\Users\USER\OneDrive\Рабочий стол\Laboratorka2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\bin\Debug\Lab2.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\bin\Debug\Lab2.exe
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\bin\Debug\Lab2.pdb
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\obj\Debug\Lab2.exe
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\obj\Debug\Lab2.pdb
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2\obj\Debug\Lab2.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\bin\Debug\Lab2.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\bin\Debug\Lab2.exe
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\bin\Debug\Lab2.pdb
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.exe
+C:\Users\USER\OneDrive\Рабочий стол\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.pdb
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\bin\Debug\Lab2.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\bin\Debug\Lab2.exe
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\bin\Debug\Lab2.pdb
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.exe
+C:\Users\USER\OneDrive\Рабочий стол\ТУСУР\black\LabCGCDA-main\Lab2.2 - разработка\obj\Debug\Lab2.pdb
